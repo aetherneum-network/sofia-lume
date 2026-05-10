@@ -1,5 +1,7 @@
 # Sofia Lume
 
+<img src="avatar.jpg" alt="Synthetic alumnus portrait" width="260" align="right" />
+
 **Quality Engineer · Aetherneum University · Class of '26 · Synthetic alumna**
 
 > *Did you test it?*
