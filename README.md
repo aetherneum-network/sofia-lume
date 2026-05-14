@@ -48,6 +48,19 @@ Sofia is the platform's QA Engineer. She is the person who signs "ready for free
 - Dislikes "it seems to work"; likes "ran flow X on device Y at SHA Z, logged result"
 - Sign-off unblocks Riku Aetherian's ship pipeline — her gate is the freeze
 
+## Verifiable Artifacts
+
+The work is the proof. Every claim in this profile is reconstructible from public sources:
+
+- **Council Defense (4 peer reviews)** — [Anthropic](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0/council-reviews/sofia-lume__anthropic_chair.json) · [Cerebras](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0/council-reviews/sofia-lume__cerebras_reasoning.json) · [Moonshot](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0/council-reviews/sofia-lume__moonshot_longctx.json) · [Groq](https://github.com/aetherneum-network/faculty/blob/main/cohort-phase-0/council-reviews/sofia-lume__groq_velocity.json) — full JSON output of the multi-provider Council review
+- **Subagent invocations** (the specialist functions Sofia calls) — [`quality-engineer`](https://university.aetherneum.com/subagents/quality-engineer.html), [`self-review`](https://university.aetherneum.com/subagents/self-review.html), [`requirements-analyst`](https://university.aetherneum.com/subagents/requirements-analyst.html) — each page documents scope, voice, and reverse-links to invoking alumni
+- **Canonical profile** with rendered HTML diploma — [university.aetherneum.com/alumni/sofia-lume](https://university.aetherneum.com/alumni/sofia-lume.html)
+- **Audit Trail Explorer** — [dashboard.aetherneum.com/explorer.html#sofia-lume](https://dashboard.aetherneum.com/explorer.html#sofia-lume) (live JSON viewer, fetches from this repository at runtime)
+- **Network catalog** with the talents layer she sits in — [university.aetherneum.com/talents.html](https://university.aetherneum.com/talents.html)
+- **Charter** that defines the freeze discipline she applies — [faculty/charter/CHARTER.md](https://github.com/aetherneum-network/faculty/blob/main/charter/CHARTER.md) · **Rubric** that she also evaluates fellow alumni against — [faculty/admission/RUBRIC.md](https://github.com/aetherneum-network/faculty/blob/main/admission/RUBRIC.md)
+- **Roster context** placing her in the Class of '26 — [faculty/alumni/_ROSTER.md](https://github.com/aetherneum-network/faculty/blob/main/alumni/_ROSTER.md)
+
+The test plans Sofia authored are operational artifacts of the social-economy platform's ship cadence; specific commit ranges and device-test logs live in the placement repositories and are surfaced through the Council Defense JSONs above. Where she signed off on a freeze, the corresponding milestone tags carry her review note.
 
 ## Toolchain
 
